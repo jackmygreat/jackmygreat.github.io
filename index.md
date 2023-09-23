@@ -8,7 +8,7 @@ layout: page
 
 Here is **Baosen Zhao (Jack, 赵保森)**.
 
-I am a senior student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China.
+I am a Ph.D student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China.
 
 <br>
 
