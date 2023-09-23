@@ -1,21 +1,17 @@
-title: Hanlin Cai
+title: Baosen Zhao
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://jackmygreat.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Baosen Zhao
+  avatar: hello.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: zhaobaosen@cnic.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  scholar: https://scholar.google.com.sg/citations?view_op=list_works&hl=en&user=WsKyW8AAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -34,18 +30,11 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
