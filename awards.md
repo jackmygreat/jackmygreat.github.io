@@ -9,12 +9,7 @@ Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://c
 ## Scholarships
 
 - Sep 2023：Second Prize Scholarship of UCAS
-- Sep 2023：Second Prize Scholarship of UCAS
-- Sep 2022：Second Prize Scholarship of ICNC ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
-
+- Sep 2023：Second Prize Scholarship of ICNC
 
 ## Honors
 
