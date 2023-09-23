@@ -9,7 +9,7 @@ Lastest Update: 20th Sep 2023 &nbsp;
 ## Scholarships
 
 - Sep 2023：Second Prize Scholarship of UCAS
-- Sep 2023：Second Prize Scholarship of ICNC
+- Sep 2023：Second Prize Scholarship of CNIC
 
 ## Honors
 
