@@ -8,7 +8,8 @@ layout: page
 
 Here is **Baosen Zhao (Jack, 赵保森)**.
 
-I am a Ph.D student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China.
+I am a Ph.D student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. I was also a visiting Ph.D student advised by [Gianni Antichi] (https://gianniantichi.github.io/)  at Politecnico di Milano(Italy)  in 2023-2024.
+
 
 <br>
 
@@ -16,6 +17,7 @@ I am a Ph.D student majoring Computing Systems Architecture, Computer Network In
 
 - **Sep 2013 - June 2017:**  Taiyuan University of Science and Technology (TYUST)
 - **Sep 2020 - Now:** University of Chinese Academy of Sciences (UCAS)
+- **June 2025 - Now:** Politecnico di Milano (Polimi)
 
 <br>
 
@@ -23,11 +25,12 @@ I am a Ph.D student majoring Computing Systems Architecture, Computer Network In
 
 ## Research Interests
 
+- Datacenter Network
 - Network Transport Protocols
 - Congestion Control
 - Wireless Network
 
-My current research focuses on transport optimization for low-latency applications, specifically cross-layer information over 5G and 6G cellular networks.
+My current research focuses on transport optimization for low-latency applications, specifically cross-layer information over Datacenter and Wireless networks.
 
 <br>
 
