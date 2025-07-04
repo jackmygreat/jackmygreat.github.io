@@ -8,7 +8,7 @@ layout: page
 
 Here is **Baosen Zhao (Jack, 赵保森)**.
 
-I am a Ph.D student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. I was also a visiting Ph.D student advised by [Gianni Antichi](https://gianniantichi.github.io/)  at Politecnico di Milano(Italy)  in 2023-2024.
+I am a Ph.D student majoring Computing Systems Architecture, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. I was also a visiting Ph.D student advised by [Gianni Antichi](https://gianniantichi.github.io/)  at Politecnico di Milano(Italy) in 2025-2026.
 
 
 <br>
